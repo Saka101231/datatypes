@@ -5,7 +5,7 @@ public class Arrays {
 
         int[] numbers = new int[5];
         double[] monies = new double[5];
-        String[] names = new String[5];
+        String[] names = new String[]{"Shola","saka","Jide","Boyo","Jimoh"};
 
         for (int i = 0; i < numbers.length; i++) {
             numbers[i] = (i + 1) * (i + 1);
@@ -20,6 +20,7 @@ public class Arrays {
         print(numbers);
         System.out.println("\nJackpot winners by Level:");
         print(monies);
+        print(names);
     }
 
     private static void print(int[] numbers) {
