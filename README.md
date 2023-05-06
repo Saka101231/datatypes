@@ -19,3 +19,12 @@ To add new files after your changes:
    git commit -m "Add previous work files"
    git push origin main
 ```
+
+To Update master or main branch:
+if you are not on the main branch first checkout to the main branch.
+The run the code
+```
+git pull origin main
+git checkout formatter
+git merge main
+```
