@@ -1,0 +1,17 @@
+60 backend - Java, Jdbc, JPA(Hibernate), SpringBoot(API, Services, Notification, IoC, Microservices(server))
+30 frontend - Javascript, React
+10 Tools - DevOps, Git, Gradle, Junit, Docker, Docker Compose(unit, integration, e2e), AWS, GCP,Azure
+
+Java
+Datatypes - Numbers, Strings, Boolean, Enums, Classes, interfaces, arrays, Collections,
+
+Collections: List, Array, Collection, Map, Iterator, Iterables, Iterator, Enumeration, Queue, Set, Map, Multi-map, Multi-set, Iterator,
+Code Optimization
+
+Utility Class - Dates, Arrays, SimpleDateFormat, System
+System - io, currentTimeMillis
+IO - File, Input/Output, BufferedReader/Writer, StringReader/Writer, PrintWriter, InputStreamReader/OutputStreamReader/Scanner
+
+Server - Enterprise Apps
+Database - (Rdbms, NoSQL, Graph) H2, MySQL, Postgress, MongoDB,Cassandra, Neptune, Papache GraODBC, JDBC, JPA, Hibernate, Jdbc,
+Framework - SpringBoot(API, Notifications, Web, micro-service)
