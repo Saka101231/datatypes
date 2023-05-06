@@ -11,7 +11,7 @@ To create a new branch
 ```
   git checkout -b formaters
   git push origin formaters
-``
+```
 
 To add new files after your changes:
 ```
@@ -22,7 +22,8 @@ To add new files after your changes:
 
 To Update master or main branch:
 if you are not on the main branch first checkout to the main branch.
-The run the code
+The run the code:
+
 ```
 git pull origin main
 git checkout formatter
